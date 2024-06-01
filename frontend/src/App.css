@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('../assets/bg3.jpg');
+  background-size: cover;
+  background-color: #12111d; 
+  font-family: 'Roboto', sans-serif;
+  color: #fff; 
+}
+
+header {
+  margin-bottom: 2rem;
+  background-color: #000; 
+}
+
+.container {
+  color: #fff; 
+      height: 100%;
+    text-align: center;
+}
+
+.form-control {
+  background-color: #333; 
+  color: #fff; 
+}
+
+.btn-primary {
+  background-color: #ffc500; 
+  color: #12111d; 
+}
+
+.card {
+  background-color: #212121; 
+  color: #fff; 
+  border: 1px solid #ffc107; 
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05); 
+}
+
+.card-title {
+  font-size: 1.2rem; 
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  font-size: 1rem; 
+  margin-bottom: 0.5rem;
+}
+/* Search.css */
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.search-input {
+  flex: 1;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.search-button {
+  background-color: #ffc107; 
+  color: #212121;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 0.5rem;
+}
+
+.search-button:hover {
+  background-color: #0056b3;
+}

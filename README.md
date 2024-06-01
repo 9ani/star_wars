@@ -41,7 +41,7 @@
    ```
 
 
-Для дополнительной информации посетите репозиторий проекта на [GitHub](https://github.com/9ani/Mereke).
+Для дополнительной информации посетите репозиторий проекта на [GitHub](https://github.com/9ani/star_wars).
 
 # Проектирование и разработка
 
@@ -74,11 +74,11 @@
 
 ### Скриншот главной страницы
 
-![Главная страница](<img src="./frontend/assets/screenshots/image1.png" width="100%">
+![Главная страница](<img src="./frontend/assets/screenshots/image1.jpg" width="100%">
 )
 
 ### Скриншот результата поиска
 
-![Детальная страница](<img src="./frontend/assets/screenshots/image2.png" width="100%">)
+![Детальная страница](<img src="./frontend/assets/screenshots/image2.jpg" width="100%">)
 
 

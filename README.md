@@ -74,11 +74,11 @@
 
 ### Скриншот главной страницы
 
-![Главная страница](<img src="./frontend/assets/screenshots/image1.jpg" width="100%">
-)
+![Главная страница](frontend/assets/screenshots/image1.jpg)
+
 
 ### Скриншот результата поиска
 
-![Детальная страница](<img src="./frontend/assets/screenshots/image2.jpg" width="100%">)
+![Детальная страница](frontend/assets/screenshots/image2.jpg)
 
 
